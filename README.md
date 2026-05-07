@@ -60,4 +60,4 @@ npm run dev
 - **Frontend:** Hosted on Vercel (Root: `client`)
 
 ## Author
-Developed by [Your Name]
+Developed by Bharathi
