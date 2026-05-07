@@ -2,6 +2,8 @@
 
 Essenza is a premium MERN stack e-commerce platform designed for a luxury perfume brand. It features a minimalist black-and-gold aesthetic, dynamic product filtering, and a smooth user experience.
 
+**Live Demo:** [essenza-shop.vercel.app](https://essenza-shop.vercel.app/)
+
 ## Tech Stack
 - **Frontend:** React (Vite), Framer Motion, Lucide Icons
 - **Backend:** Node.js, Express
